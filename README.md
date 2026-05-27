@@ -8,7 +8,7 @@ An interactive, end-to-end sales analytics dashboard built in Microsoft Power BI
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](Sales_Analytics_dashboard_powerbi_project_.png)
+![Sales_Analytics_dashboard(powerbi_project).png]
 
 ---
 
